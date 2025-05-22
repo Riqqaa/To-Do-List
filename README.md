@@ -1,20 +1,20 @@
 # To-Do-List
 
-##Deskripsi
+## Deskripsi
 Aplikasi sederhana berbasis PHP untuk mencatat tugas harian.
 
-##Fitur
+## Fitur
 - Tambah tugas
 - Tandai tugas selesai
 - Hapus tugas
 
-##Struktur Folder
+## Struktur Folder
 - 'index.php'-halamanan utama
 - 'style.css'-file CSS
 
-##Cara Menjalankan
+## Cara Menjalankan
 1. Salin Folder ke 'htdocs/'
 2. Jalankan XAMPP dan buka di 'http//localhost/To-Do-List'
 
-##Kontributor
+## Kontributor
 - Ramadhanty Riqqa Sunudz (https://github.com/Riqqaa)
